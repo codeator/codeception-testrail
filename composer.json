@@ -1,10 +1,10 @@
 {
-    "name": "bookit/codeception-testrail",
+    "name": "codeator/codeception-testrail",
     "description": "Codeception Extension for TestRail Reporting",
     "homepage": "https://github.com/bookitcom",
     "license": "MIT",
     "require": {
-        "codeception/codeception": "^2.2",
+        "codeception/codeception": "^3.1",
         "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
